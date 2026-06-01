@@ -12,8 +12,8 @@ https://colab.research.google.com/github/AamnahFaiyaz/Capstone-Projects/blob/mai
 
 ## 💧 Water Potability Prediction
 
-📓 Notebook Viewer (Recommended):  
-https://nbviewer.org/github/AamnahFaiyaz/Capstone-Projects/blob/main/Water_Potability_Prediction/Aamnah_Faiyaz_Water_Potability_Prediction.ipynb
+📓 View Notebook:
+https://nbviewer.org/url/raw.githubusercontent.com/AamnahFaiyaz/Capstone-Projects/main/Water_Potability_Prediction/Aamnah_Faiyaz_Water_Potability_Prediction.ipynb
 
-🚀 Open in Google Colab:  
+🚀 Open in Colab:
 https://colab.research.google.com/github/AamnahFaiyaz/Capstone-Projects/blob/main/Water_Potability_Prediction/Aamnah_Faiyaz_Water_Potability_Prediction.ipynb
